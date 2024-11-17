@@ -7,6 +7,7 @@ Once you've downloaded and installed WampServer, open the application and wait a
 This will open phpMyAdmin in your browser. The default login credentials are:
 
 Username: root
+
 Password: (leave this blank)
 
 After logging in, you will be redirected to the phpMyAdmin dashboard. At the top of the page, you'll see an "Import" button located between the "Export" and "Settings" buttons. Click on Import.
