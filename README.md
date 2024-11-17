@@ -14,6 +14,6 @@ After logging in, you will be redirected to the phpMyAdmin dashboard. At the top
 
 In the "File to Import" section, click Choose File, then find and select the kean_database.sql file you downloaded.
 
-Once the file is uploaded, scroll down to the bottom of the page and click the "Go" button to import the database.
+Once the file is uploaded, scroll down to the bottom of the page and click the "Import" button to import the database.
 
 That's it! You're all set up. Good luck!
