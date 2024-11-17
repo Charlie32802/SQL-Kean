@@ -8,6 +8,7 @@ This will open phpMyAdmin in your browser. The default login credentials are:
 
 Username: root
 Password: (leave this blank)
+
 After logging in, you will be redirected to the phpMyAdmin dashboard. At the top of the page, you'll see an "Import" button located between the "Export" and "Settings" buttons. Click on Import.
 
 In the "File to Import" section, click Choose File, then find and select the kean_database.sql file you downloaded.
